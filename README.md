@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Rayyan-x95
+- 👋 Hi, I’m Mohammed Rayyan
 - 👀 I’m interested in design
-- 🌱 I’m currently learning Pythom
-- 💞️ I’m looking to collaborate on UI/UX
+- 🌱 I’m currently learning UI/UX
+- 💞️ I’m looking to collaborate on {None for now}
 - 📫 How to reach me E-mail @ mmohammedrayyan0808@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 16 yrs old
+- ⚡ Fun fact: 17 yrs old
 
 <!---
 Rayyan-x95/Rayyan-x95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
