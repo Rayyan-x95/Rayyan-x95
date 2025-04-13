@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rayyan-x95
-- 👀 I’m interested in Web design
+- 👀 I’m interested in design
 - 🌱 I’m currently learning Pythom
 - 💞️ I’m looking to collaborate on UI/UX
 - 📫 How to reach me E-mail @ mmohammedrayyan0808@gmail.com
