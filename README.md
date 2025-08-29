@@ -17,14 +17,14 @@
 ---
 
 ## 🛠️ Tech & Tools
-💻 **Dev/Android:** Kotlin · Jetpack Compose · Room · Hilt · Firebase · Git  
+💻 **Dev/Android:** HTML · CSS · JS · PYTHON · C · C++ · Firebase · Git  
 🎨 **Design:** Photoshop · Illustrator · Figma · After Effects · Premiere Pro  
 ⚙️ **Other Skills:** Branding · UI/UX · Motion Graphics · Open Source  
 
 ---
 
 ## 🚀 Projects
-- 🔹 [**TaskZen**](#) – A next-gen productivity app (AI + Pomodoro + offline-first)  
+- 🔹 [**TaskZen**](#) – A next-gen productivity app (Task Manager + Pomodoro + offline-first)  
 - 🔹 [**Custom ROMs**](https://sourceforge.net/projects/juninzo/) – Builds for Xiaomi "sweet" & more  
 ---
 
