@@ -2,7 +2,8 @@
 
 🎨 **Graphic Designer | Engineering Student | ROM Developer**  
 ⚡ Founder of **Ninety5** – Helping brands come alive with bold, inspiring visuals  
-💻 Building **custom ROMs** & Android projects (Evolution X, Lunaris, Clover, TaskZen & more)  
+💻 Building **custom ROMs** & Android projects (Evolution X, Lunaris, Clover, TaskZen & more) 
+🎓 Studying at Dhaanish Ahmed College Of Engineering 
 
 ---
 
